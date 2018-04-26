@@ -27,6 +27,9 @@ import java.math.BigDecimal;
 
 public class MainActivity extends AppCompatActivity {
 
+    //For full code visit GitHub repo
+    // https://github.com/BrianMcManus/PayPalSDKIntegration.git
+
     //Declare a progressbar
     private ProgressBar spinner;
 
